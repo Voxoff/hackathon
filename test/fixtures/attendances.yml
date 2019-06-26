@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  house: one
+  check_in: 2019-06-26 14:26:04
+  check_out: 2019-06-26 14:26:04
+
+two:
+  house: two
+  check_in: 2019-06-26 14:26:04
+  check_out: 2019-06-26 14:26:04
